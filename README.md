@@ -9,3 +9,5 @@ On the "Projects" page, simply click the "Eye Exercise" link and the program wil
 
 # Future Improvements
 My future plans for this project are more detailed CSS for the eyes and face. 
+
+This project is under the MIT License.
